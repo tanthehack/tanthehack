@@ -17,5 +17,5 @@
 <br>
 
 # ⚔️ Fav Adventure Time Quote 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=500&color=ffffff&background=005DB600&width=435&lines=%E2%80%9CSuckin%E2%80%99+at+something+is+the+first+step+;+to+being+sorta+good+at+something.%E2%80%9D+(Finn+the+Human))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=500&color=ffffff&background=005DB600&width=435&lines=%E2%80%9CSuckin%E2%80%99+at+something+is+the+first+step+;+to+being+sorta+good+at+something.%E2%80%9D+(Finn))](https://git.io/typing-svg)
 <br>
