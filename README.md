@@ -1,11 +1,9 @@
 # Hi there 👋, I'm Tanya!
-💜 I'm a 20-year old computer science major who has a passion for graphic design and programming :)
+💜 I'm a 21-year old computer science major who has a passion for graphic design and programming :)
 <br>
 
 # 🌱 I’m currently learning
-🐍 - Python <br>
-⭐ - Vanilla JavaScript <br>
-⚡ - Product Design using Figma
+⭐ - React <br>
 <br>
 
 # ✨ Stats
