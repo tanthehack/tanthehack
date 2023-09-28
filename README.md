@@ -1,19 +1,27 @@
-# Hi there 👋, I'm Tanya!
-💜 I'm a 21-year old computer science major who has a passion for graphic design and programming :)
-<br>
 
-# 🌱 I’m currently learning
-⭐ - React <br>
-<br>
+hey there, 👋
 
-# ✨ Stats
-[![Tanya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanthehack&theme=radical)](https://git.io/streak-stats)
+"I'm Ekekwe Tanyalouise, a Creative Developer extraordinaire, seamlessly blending art and code, pursuing a Computer Science degree by day and wielding code like magic at night, with a passion born from the collision of computers and art, and a deep love for diverse collaborations that shape both my skills and character."
 
-[![Tanya's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanthehack&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+🔧 Dev Tools
+* JavaScript(ES6+) <br>
+* React <br>
+* Python <br>
+* C++ <br>
 
-![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanthehack&show_icons=true&theme=radical)
-<br>
+🖌️ Design Tools
+* Figma  <br>
+* Adobe Photoshop <br>
+* Adobe Illustrator <br>
+* Adobe After Effects <br>
 
-# ⚔️ Fav Adventure Time Quote 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=500&color=ffffff&background=005DB600&width=435&lines=%E2%80%9CSuckin%E2%80%99+at+something+is+the+first+step+;+to+being+sorta+good+at+something.%E2%80%9D+(Jake))](https://git.io/typing-svg)
+🌟 Let's Connect
+Have a project idea, want to collaborate, or just want to chat about the intersection of tech and creativity? Feel free to reach out:
+
+* 📧 Email: [tanyalouisekekewe@gmail.com](mailto:tanyalouisekekwe@gmail.com) <br>
+* 🐦 Twitter: [@tanielouu](https://x.com/tanielouu) <br>
+* 📷 Instagram: [@tanyalouisekekwe](https://instagram.com/tanyalouisekekwe) <br>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&pause=500&color=ffffff&background=005DB600&width=435&lines=%E2%80%9CSuckin%E2%80%99+at+something+is+the+first+step+;+to+being+sorta+good+at+something.%E2%80%9D+(Jake))](https://git.io/typing-svg)
 <br>
